@@ -3,8 +3,8 @@
 %bcond_without	tests	# do perform "make test"
 #
 %include	/usr/lib/rpm/macros.perl
-%define	pdir	Devel
-%define	pnam	Trace
+%define		pdir	Devel
+%define		pnam	Trace
 Summary:	Devel::Trace - print out each line before it is executed (like `sh -x')
 Summary(pl):	Devel::Trace - wypisywanie ka¿dej linii przed wykonaniem (jak `sh -x')
 Name:		perl-Devel-Trace
