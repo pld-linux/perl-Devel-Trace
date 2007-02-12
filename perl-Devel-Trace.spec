@@ -6,7 +6,7 @@
 %define		pdir	Devel
 %define		pnam	Trace
 Summary:	Devel::Trace - print out each line before it is executed (like `sh -x')
-Summary(pl):	Devel::Trace - wypisywanie kaødej linii przed wykonaniem (jak `sh -x')
+Summary(pl.UTF-8):   Devel::Trace - wypisywanie ka≈ºdej linii przed wykonaniem (jak `sh -x')
 Name:		perl-Devel-Trace
 Version:	0.10
 Release:	2
@@ -25,10 +25,10 @@ If you run your program with `perl -d:Trace program', this module will
 print a message to standard error just before each line is executed.
 This is is something like the shell's `-x' option.
 
-%description -l pl
-Je∂li uruchomi siÍ program poprzez `perl -d:Trace program', ten modu≥
-bÍdzie wypisywa≥ na standardowe wyj∂cie diagnostyczne komunikat przed
-wykonaniem kaødej linii. Jest to co∂ w rodzaju opcji `-x' pow≥oki.
+%description -l pl.UTF-8
+Je≈õli uruchomi siƒô program poprzez `perl -d:Trace program', ten modu≈Ç
+bƒôdzie wypisywa≈Ç na standardowe wyj≈õcie diagnostyczne komunikat przed
+wykonaniem ka≈ºdej linii. Jest to co≈õ w rodzaju opcji `-x' pow≈Çoki.
 
 %prep
 %setup -q -n %{pdir}-%{pnam}-%{version}
