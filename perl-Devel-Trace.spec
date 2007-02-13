@@ -6,7 +6,7 @@
 %define		pdir	Devel
 %define		pnam	Trace
 Summary:	Devel::Trace - print out each line before it is executed (like `sh -x')
-Summary(pl.UTF-8):   Devel::Trace - wypisywanie każdej linii przed wykonaniem (jak `sh -x')
+Summary(pl.UTF-8):	Devel::Trace - wypisywanie każdej linii przed wykonaniem (jak `sh -x')
 Name:		perl-Devel-Trace
 Version:	0.10
 Release:	2
