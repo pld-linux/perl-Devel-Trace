@@ -8,12 +8,12 @@
 Summary:	Devel::Trace - print out each line before it is executed (like `sh -x')
 Summary(pl.UTF-8):	Devel::Trace - wypisywanie każdej linii przed wykonaniem (jak `sh -x')
 Name:		perl-Devel-Trace
-Version:	0.10
-Release:	3
+Version:	0.11
+Release:	1
 License:	unknown
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	da8d841665fd147b19c4b792fb312da8
+# Source0-md5:	1138fe5d16b446dca3d55ccea37d8b96
 URL:		http://www.plover.com/~mjd/perl/Trace/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
