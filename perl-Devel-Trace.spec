@@ -2,7 +2,6 @@
 # Conditional build:
 %bcond_without	tests	# do perform "make test"
 #
-%include	/usr/lib/rpm/macros.perl
 %define		pdir	Devel
 %define		pnam	Trace
 Summary:	Devel::Trace - print out each line before it is executed (like `sh -x')
